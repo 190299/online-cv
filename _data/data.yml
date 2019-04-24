@@ -43,13 +43,9 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About Me 
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I'm passioned in Software Engineer and System Engineer. I expand my skill
 
       Second paragraph if required.
 
@@ -67,9 +63,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: IPA 
+      university: SMA N 1 Simanindo
+      time: 2014-2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -177,22 +173,22 @@ skills:
 
     toolset:
       - name: HTML & CSS
-        level: 98%
+        level: 80%
 
       - name: PHP 
-        level: 98%
+        level: 80%
 
       - name: JAVA
-        level: 98%
+        level: 75%
 
       - name: Yii
-        level: 95%
+        level: 85%
 
       - name: Wordpress 
         level: 85%
 
       - name: System Engineer 
-        level: 60%
+        level: 88%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
