@@ -17,7 +17,7 @@ sidebar:
     website: blog.webjeda.com #do not add http://
     linkedin: https://www.linkedin.com/in/anjelina-putri-napitu-22619b167/
     github: https://github.com/190299
-    twitter: '@webjeda'
+    twitter: 'https://twitter.com/AnjelinaNapitu'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,7 +29,7 @@ sidebar:
       - idiom: English 
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Batak 
         level: Professional
 
     interests:
@@ -176,22 +176,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: HTML & CSS
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: PHP 
         level: 98%
 
-      - name: Angular
+      - name: JAVA
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Yii
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Wordpress 
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: System Engineer 
         level: 60%
 
 footer: >
