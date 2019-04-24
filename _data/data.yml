@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: anjelinaput32@gmail.com
     phone: 081272577852
-    website: blog.webjeda.com #do not add http://
+    website: Sibatu-batu, North Sumatera  #do not add http://
     linkedin: https://www.linkedin.com/in/anjelina-putri-napitu-22619b167/
     github: https://github.com/190299
     twitter: 'https://twitter.com/AnjelinaNapitu'
@@ -123,16 +123,15 @@ experiences:
           - Bullet point
 
 projects:
-    title: Projects
+    title: Project Undertaken 
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Website Desa Tuk-Tuk Siadong 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Create a static web tu promote a village in Samosir, using HTML, CSS, JavaScript 
+        Programmer 
+        December 2017-Januari 2018."
 
       - title: DevStudio
         link: "#"
