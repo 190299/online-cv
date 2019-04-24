@@ -125,21 +125,31 @@ projects:
         Programmer 
         December 2017-Januari 2018."
 
-      - title: DevStudio
+      - title: Grup Chat for JAVA Language 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "This project was made as a requirement to pass the course Program Berorientasi (PBO) using java 
+        Programmer 
+        Februari  2018-Juni  2018."
 
-      - title: Tempo
+      - title: Website Himpunan Mahasiswa Prodi Institut Teknologi Del 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "This website was built using wordpress about the existing student body at the Del Institute of Technology
+        Analyst adnd Programmer
+        Februari  2018-Juni  2018."
 
-      - title: Atom
+      - title: Website Inventory D3 TK 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "This project was built to help computer engineering study program in the list of loan items using PHP, HTML, CSS 
+        JavaScript, and SQL 
+        Analyst adnd Programmer
+        October   2018-November   2018."
 
-      - title: Delta
+      - title: Website Inventory D3 TK
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "This project was built to help computer engineering study program in the list of loan items using PHP, HTML, CSS 
+        JavaScript, and SQL 
+        Analyst adnd Programmer
+        ovember   2018-December   2018"
 
 publications:
     title: Publications
