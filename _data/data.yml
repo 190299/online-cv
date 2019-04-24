@@ -8,17 +8,15 @@ sidebar:
 
     # Profile information
     name: Anjelina Putri Napitu 
-    tagline: Full Stack Developer
+    tagline: Students 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: anjelinaput32@gmail.com
     phone: 081272577852
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
+    linkedin: https://www.linkedin.com/in/anjelina-putri-napitu-22619b167/
+    github: https://github.com/190299
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
