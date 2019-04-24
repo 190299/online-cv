@@ -45,9 +45,11 @@ sidebar:
 career-profile:
     title: About Me 
     summary: |
-      I'm passioned in Software Engineer and System Engineer. I expand my skill
+      I'm passioned in Software Engineer and System Engineer. I expand my skill to build a website and system a website. 
+      I can work on making virtual server, application based on website, cloud, and system a website. I have more then 2 years experince
+      in making website, and more than making system a website, and I interest to trying something new in my passion. 
 
-      Second paragraph if required.
+    
 
 education:
     - degree: Diploma 3 Computer Engineering 
@@ -178,7 +180,7 @@ skills:
       - name: PHP 
         level: 80%
 
-      - name: JAVA
+      - name: Java 
         level: 75%
 
       - name: Yii
