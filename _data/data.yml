@@ -47,6 +47,12 @@ education:
       time: 2017-2020
       details: |
       
+education:
+    - degree: Student
+      university: Del Institue of Technology 
+      time: 2017-2020
+      details: |
+      
 
 Organization :
     - role: himpunan ku 
